@@ -1,2 +1,2 @@
-# ordinarily-awesome-FPGA
-记录自己本科阶段的计算机数字逻辑设计和组成原理两门课程中对FPGA的学习过程和课后实验
+# ordinarily-awesome-verilog
+verilog语言入门项目集
