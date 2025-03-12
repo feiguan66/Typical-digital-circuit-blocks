@@ -7,7 +7,11 @@
 >软件在能够复用前必须先能用。——Ralph Johnson
 
 此仓库记录制作出的积木以方便**未来复用**，当然前提是这些模块都已经过**FPGA原型验证**。  
-注:`sources_1/new`中存放`design`文件，`sim_1/new`中存放`simulation`文件
+Contact me:<feiguan66@gmail.com> or WeChat:feiguan6
+##### 文件夹说明:
+`project`:项目集  
+`sources_1/new`:design文件  
+`sim_1/new`:simulation文件
 ___
 ### 目录:
 1. [逻辑运算器和数据选择器](#1)  
