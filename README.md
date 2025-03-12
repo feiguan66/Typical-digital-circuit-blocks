@@ -35,7 +35,7 @@ ___
 
 #### 2. [五人表决器](./project/2-Voter_5_dip)<a id="2"></a>
 5人表决器`Vote_5`:  
-![image](./image/2_Vote_5.png)    
+![image](./image/2_Vote-5.png)    
 数码管显示译码控制电路`display`:  
 ![image](./image/2_display.png)    
 带数码管显示的5人表决器`Voter_5_dip`:  
