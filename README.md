@@ -59,7 +59,8 @@ D 触发器`Dff_p`:
 <img width="140" alt="image" src="https://github.com/user-attachments/assets/d813e9da-efff-4d93-8ef1-3d02eae8764a" />
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/0551b490-b611-4833-85dd-661077a18e79" />  
 32位通用寄存器`Dff_p_Ap_32`:  
-<img width="174" alt="image" src="https://github.com/user-attachments/assets/9d467bb0-a592-4b11-bd5c-d22ad5110ff3" />  
+<img width="171" alt="image" src="https://github.com/user-attachments/assets/96c9f12a-f78d-4dc8-b9cf-0bf5a8e6be4c" />  
+
 
 #### 6. [分频器](./project/6-slowclock)<a id="6"></a>  
 模10计数器`counter_10`:  
